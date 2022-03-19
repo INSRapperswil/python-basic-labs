@@ -1,5 +1,9 @@
 # Python Basics Jupyter Notebooks
 
+Python labs for the Swiss German Videos on [Youtube](https://www.youtube.com/playlist?list=PLRANZYigacWIDKePwwsmYykytkw5_M_OU).
+Partitioning is mostly congruent with the book [Automate the Boring Stuff](https://automatetheboringstuff.com/) and can be used as a supplement.
+
+
 ## Run locally with VS Code
 
 Running notebooks in VS Code is easy and fun. Just install the Microsoft Python extension.

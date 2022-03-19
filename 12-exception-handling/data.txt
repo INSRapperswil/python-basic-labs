@@ -1,0 +1,18 @@
+Number|int,Last name|str,First name,SSN|,Test1|float,Test2|float,Test3|float,Test4|float,Final|float,Grade|str
+1,Alfalfa,Aloysius,123-45-6789,40,90,100,83,49,D-
+2,Alfred,University,123-12-1234,41,97,96,97,48,D+
+3,Gerty,Gramma,567-89-0123,41,not taken,60,40,44,C
+4,Android,Electric,087-65-4321,42,23,36,45,47,B-
+5,Bumpkin,Fred,456-78-9012,43,78,,77,45,A-
+6,Rubble,Betty,234-56-7890,44,90,80,90,46,C-
+7,Noshow,Cecil,345-67-8901,45,11,-1,4,43,F
+8,Buff,Bif,632-79-9939,46,20,30,40,50,B+
+9,Airpump,Andrew,223-45-6789,49.01.0,90,100,83,A,
+10,Backus,Jim,143-12-1234,48,1,97,96,97,A+
+11,Carnivore,Art,565-89-0123,44,1,80,60,40,D+
+12,Dandy,Jim,087-75-4321,47,1,23,36,45,C+
+13,Elephant,Ima,456-71-9012,45,1,78,88,77,B-
+14,Franklin,Benny,234-56-2890,50,1,90,80,90,B-,May have cheated
+15,George,Boy,345-67-3901,40,1,11,-1,4,B
+16,Heffalump,Harvey,632-79-9439,30,1,20,30,40
+,,,
